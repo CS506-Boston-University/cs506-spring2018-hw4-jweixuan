@@ -1,0 +1,39 @@
+Task 1
+
+a) Transform categorical column to numerical: 2/2
+
+ 
+Task 2
+
+a) Report the summary of the model: 1/1
+
+b) Mean squared error computation: 1/1
+
+c) Explanation of OLS regression results and statistically significant predictors: 1/1
+
+
+Task 3
+
+a) Perform regularization using ridge fit: 1/1
+
+b) Perform Kfold cross-validation and report best model + shuffle data: 0.5/1 (regularization and linear model evaluation not performed on same datasets - differnt loop for each)
+
+c) Evaluate all 4 ridge regression parameters alpha: 1/1
+
+d) Comments on which model you prefer and why: 0.5/0.5
+
+e) Comments on the effect of alpha: 0.5/0.5
+
+
+
+Task 4
+
+a) Add quadratic terms of significant variables in regularized model: 1/1
+
+b) Perform kfold cross-validation on linear model and regularized quadratic model + Report MSE + shuffle data: 1/1
+
+c) Comments of results if too many quadratic or cubic terms added: 1/1
+
+
+
+Total: 11.5/12
